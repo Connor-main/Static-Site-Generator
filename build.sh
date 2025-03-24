@@ -1,0 +1,1 @@
+python3 src/main.py "/Connor_main/Static-Site-Generator/"
